@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(163, 8, 8);
+}
+*{
+    border:solid;
+}
+.header{
+    background-color: burlywood;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: grey;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background-color: ivory;
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
